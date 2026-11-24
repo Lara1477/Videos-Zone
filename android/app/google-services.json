@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185048877239",
+    "project_id": "videos-app-76175",
+    "storage_bucket": "videos-app-76175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185048877239:android:b700f4df537095cbb2e532",
+        "android_client_info": {
+          "package_name": "com.videozone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185048877239-u4uvqrc65h2hekt01vfv1atsi23mqt03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOjVbNdXApz3UsGwv9NBim5-Q0IM8JDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185048877239-u4uvqrc65h2hekt01vfv1atsi23mqt03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
